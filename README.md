@@ -1,22 +1,39 @@
-# Aniston Manoj
-**Software Developer | Founder | BCA Student**
-
-Technical professional focused on the intersection of Artificial Intelligence, scalable system architecture, and high-end visual design. Currently dedicated to building autonomous AI agents and exploring neural network integration.
-
-### Technical Expertise
-* **Languages:** Python, JavaScript, C++, Java
-* **AI & Machine Learning:** Neural Network Architecture, AI Agent Orchestration, LLM Frameworks
-* **Development:** Full-Stack Web Development, System Design, API Integration
-* **Creative Engineering:** Professional Motion Graphics, Video Engineering (After Effects, Premiere Pro)
-
-### Current Focus
-* Lead Developer and Architect for scalable AI-driven platforms.
-* Researching optimization for autonomous agent workflows.
-* Refining UI/UX through the lens of technical precision and aesthetic balance.
-
-### Professional Philosophy
-*"The impediment to action advances action. What stands in the way becomes the way."*
-Guided by Stoic principles and a commitment to continuous technical evolution.
+ANISTON MANOJ
+**Software Developer & Founder | Scalable AI Architecture & Creative Engineering**
 
 ---
-[LinkedIn] https://www.linkedin.com/in/aniston-manoj-73242a393/  | [Email] aniston43parakunnel@gmail.com
+
+### Executive Summary
+Technical architect and entrepreneur operating at the convergence of Autonomous AI Engineering and High-End System UI/UX. Driven by structural precision, algorithmic efficiency, and an uncompromised aesthetic standard. Actively engineering the next generation of contextual AI systems.
+
+---
+
+### Technical Core
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│  AI & CORE INTELLIGENCE   │  Agentic Workflows • Neural Architectures   │
+│                           │  LLM Orchestration • Pattern Recognition   │
+├───────────────────────────┼────────────────────────────────────────────┤
+│  SOFTWARE ENGINEERING    │  Python • JavaScript • C++ • Java          │
+│                           │  Full-Stack Dev • API & System Design      │
+├───────────────────────────┼────────────────────────────────────────────┤
+│  CREATIVE ENGINEERING     │  Motion Graphics • Video Engineering       │
+│                           │  After Effects • Premiere Pro Workflow     │
+└────────────────────────────────────────────────────────────────────────┘
+
+Strategic Objectives & Research
+Autonomous Workflows: Designing and testing hyper-optimized agent orchestration models to automate complex cognitive tasks.
+
+Aesthetic Engineering: Blending deep technical backend architecture with sleek, minimalist, functional interface designs.
+
+System Scale: Building robust frameworks capable of handling high-throughput contextual data loops.
+
+Operating Framework
+"The impediment to action advances action. What stands in the way becomes the way."
+— Stoic Core. Rooted in operational discipline, analytical problem-solving, and continuous technical iteration.
+
+System Connections
+Professional Network: LinkedIn
+
+Secure Inquiries: aniston43parakunnel@gmail.com
