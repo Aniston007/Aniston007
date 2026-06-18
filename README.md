@@ -34,6 +34,6 @@ Operating Framework
 — Stoic Core. Rooted in operational discipline, analytical problem-solving, and continuous technical iteration.
 
 System Connections
-Professional Network: LinkedIn
+Professional Network: Aniston Manoj ( LinkedIn ) 
 
 Secure Inquiries: aniston43parakunnel@gmail.com
